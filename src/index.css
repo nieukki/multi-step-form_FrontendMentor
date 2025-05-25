@@ -3,5 +3,15 @@
 @import "tailwindcss";
 
 @theme {
-  
+  --color-primaryBlue: hsl(213, 96%, 18%);
+  --color-primaryPurple: hsl(243, 100%, 62%);
+  --color-primaryLightBlue: hsl(228, 100%, 84%);
+  --color-primaryTealBlue: hsl(206, 94%, 87%);
+  --color-primaryRed: hsl(354, 84%, 57%);
+  --color-neutralGray: hsl(231, 11%, 63%);
+  --color-neutralPurple: hsl(229, 24%, 87%);
+  --color-neutralBlue-100: hsl(218, 100%, 97%);
+  --color-neutralBlue-50: hsl(231, 100%, 99%);
+  --color-neutralWhite: hsl(0, 100%, 100%);
+  --font-ubuntu: "Ubuntu", sans-serif;
 }
