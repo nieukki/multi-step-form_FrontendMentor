@@ -9,6 +9,7 @@ export const Sidebar = () => {
           <div className="flex flex-col">
             <p className="text-base text-neutralGray">STEP 1</p>
             <p className="font-medium text-neutralWhite">YOUR INFO</p>
+            <p></p>
           </div>
         </div>
       </div>
